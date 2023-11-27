@@ -1,0 +1,7 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "/data/local/tmp/_.js",
+    "on_change": "reload"
+  }
+}
