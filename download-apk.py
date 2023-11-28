@@ -2,7 +2,7 @@ import asyncio
 from playwright.async_api import async_playwright
 from playwright_stealth import stealth_async
 
-PACKAGE_NAME = "com.rizenplanet.droneboiconquest"
+PACKAGE_NAME = "com.foo.bar"
 
 async def main():
     async with async_playwright() as p:
