@@ -8,7 +8,7 @@ Injects frida-gadget into `original.apk`, outputs `scriptDependent.apk` and `ser
 `serverDependent.apk` requires frida-server to be running.
 ## `download-apk.py`
 Downloads apk from google playstore by using playwright to scrape apkcombo.\
-Change the PACKAGE_NAME variable before running.
+Add `package.txt` with package name before running.
 
 # Folders
 Binaries used to sign, unpack, repack, etc are stored at `binaries/`.\

@@ -1,3 +1,6 @@
-/localScript.apk
-/original.apk
-/serverDependent.apk
+/localScript.apk*
+/original.apk*
+/serverDependent.apk*
+/debug.*
+/package.txt
+/tmp-building/
