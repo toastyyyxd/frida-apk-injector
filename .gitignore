@@ -1,6 +1,10 @@
+/tmp-building/
 /localScript.apk*
 /original.apk*
 /serverDependent.apk*
 /debug.*
-/package.txt
-/tmp-building/
+/config.json
+*.ks
+*.keystore
+*.zip
+/__pycache__/
